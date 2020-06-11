@@ -1,2 +1,2 @@
 # PyLibSea
-A graphviz -> [LibSea](https://www.caida.org/tools/visualization/libsea/) converter in python
+A library for creating and serializing graphs in the [LibSea](https://www.caida.org/tools/visualization/libsea/) format.
